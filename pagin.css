@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header {
+    justify-content: center;
+    display: flex;
+    color: #47585b;
+    font-size: 35px;
+    height: 100px;
+    align-items: center;
+}
+
+.tri {
+    color: #ffba08;
+}
+
+.rope {
+    background: no-repeat center/100% url('./imagens/EXdXLrZXS9Q.png');
+    height: 100vh
+}
