@@ -10,14 +10,32 @@ header {
     color: #47585b;
     font-size: 35px;
     height: 100px;
-    align-items: center;
+    align-items:center;
 }
 
 .tri {
     color: #ffba08;
 }
 
-.rope {
+.conteiner {
     background: no-repeat center/100% url('./imagens/EXdXLrZXS9Q.png');
-    height: 100vh
+    height: 100vh;
 }
+
+.Europ {
+    position: absolute;
+    bottom: 150px;
+    left: 0;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 9.74%, #fff 400%);
+    font-size: 30px;
+    color: #f5f8fa;
+}
+
+main {
+    display: flex;
+}
+
+
+
